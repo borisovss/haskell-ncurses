@@ -195,7 +195,6 @@ enum hsncurses_Key
 , hsncurses_KEY_UNDO = KEY_UNDO
 , hsncurses_KEY_MOUSE = KEY_MOUSE
 , hsncurses_KEY_RESIZE = KEY_RESIZE
-, hsncurses_KEY_EVENT = KEY_EVENT
 };
 #endc
 
